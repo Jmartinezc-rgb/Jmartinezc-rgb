@@ -11,6 +11,10 @@
 - ⚡ Fun fact **I'm passionate about both board games and
   video games – mastering strategy in the physical and virtual realms!**
 
+
+
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-martinez-cristobal" target="_blank">
