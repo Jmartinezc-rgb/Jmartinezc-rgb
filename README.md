@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **javimartinezcristobal@gmail.com**
 
-- ⚡ Fun fact **I'm a pro at turning board games into high-stakes, laugh-out-loud showdowns. Expect alliances, betrayals, and epic victories!**
+- ⚡ Fun fact **I'm passionate about both board games and
+  video games – mastering strategy in the physical and virtual realms!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
