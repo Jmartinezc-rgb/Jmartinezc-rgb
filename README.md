@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [research-agent-platform](https://github.com/Jmartinezc-rgb/research-agent-platform)
 
-- 🌱 I’m currently learning **PyTorch🔥**
+- 🌱 I’m currently learning **Agents🤖**
 
 - 📫 How to reach me **javimartinezcristobal@gmail.com**
 
