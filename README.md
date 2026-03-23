@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-- 🔭 I’m currently working on [Dogmmunity](https://github.com/DaniFL/Dogmmunity)
+- 🔭 I’m currently working on [research-agent-platform](https://github.com/Jmartinezc-rgb/research-agent-platform)
 
 - 🌱 I’m currently learning **PyTorch🔥**
 
